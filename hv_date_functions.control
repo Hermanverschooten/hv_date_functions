@@ -1,0 +1,4 @@
+# Herman's date functions extension
+comment = 'Some common date functions as available in other sql implementations'
+default_version = '1.0'
+relocatable = true
